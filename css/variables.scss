@@ -1,0 +1,29 @@
+// Color variables
+$primary-color: #800000;
+$secondary-color: #f1d500; 
+$accent-color: #5f5f5f; 
+$background-color: #F5F5F5;
+$text-color: #b80101; 
+
+// Import the variables
+@import 'variables';
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+header {
+  background-color: $primary-color;
+  color: #FFFFFF; 
+}
+
+nav {
+  a {
+    color: $secondary-color;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+}
