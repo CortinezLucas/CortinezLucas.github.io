@@ -2,11 +2,11 @@
 $primary-color: #800000;
 $secondary-color: #f1d500; 
 $accent-color: #5f5f5f; 
-$background-color: #F5F5F5;
+$background-color: #0ed855;
 $text-color: #b80101; 
 
 // Import the variables
-@import 'variables';
+// @import 'variables';
 
 body {
   background-color: $background-color;
@@ -15,7 +15,7 @@ body {
 
 header {
   background-color: $primary-color;
-  color: #FFFFFF; 
+  color: #ff0000; 
 }
 
 nav {
