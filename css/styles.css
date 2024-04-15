@@ -6,3 +6,45 @@ h1{
     color: red;
 
 }
+.carousel-container {
+    max-width: 800px;
+    margin: 2rem auto; /* Add vertical margin */
+    padding: 0 1rem; /* Add horizontal padding */
+  }
+  
+  .carousel-item img {
+    height: 700px; /* Adjust the height as needed */
+    width: 100%; /* Set the width to 100% to maintain aspect ratio */
+    object-fit: cover;
+  }
+/* Style for the container */
+.container {
+    margin-top: 20px;
+  }
+  
+  /* Style for the columns */
+  .col {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  /* Add some spacing between rows */
+  .row {
+    margin-bottom: 20px;
+  }
+  
+  /* Additional styling for different alignments */
+  .align-items-start .col {
+    background-color: #f8d7da; /* Light red background */
+  }
+  
+  .align-items-center .col {
+    background-color: #d4edda; /* Light green background */
+  }
+  
+  .align-items-end .col {
+    background-color: #cce5ff; /* Light blue background */
+  }
+  
