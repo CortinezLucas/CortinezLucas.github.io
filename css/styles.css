@@ -3,7 +3,7 @@ h1{
 }
 
 .secondary {
-    color: red;
+    color: rgb(31, 147, 99);
 
 }
 .carousel-container {
@@ -24,7 +24,7 @@ h1{
   
   /* Style for the columns */
   .col {
-    border: 1px solid #ccc;
+    border: 1px solid #990000;
     padding: 10px;
     text-align: center;
     margin-bottom: 10px;
@@ -45,6 +45,10 @@ h1{
   }
   
   .align-items-end .col {
-    background-color: #cce5ff; /* Light blue background */
+    background-color: #10a024; /* Light blue background */
+  }
+
+  :root {
+    --bs-primary: #011224;
   }
   
