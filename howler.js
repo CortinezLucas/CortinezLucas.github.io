@@ -7,24 +7,18 @@ var sound2 = new Howl({
         console.log('Finished!');
     }
 });
-
+/*
 var button1 = document.getElementById("button1");
 var button2 = document.getElementById("button2");
+*/
 
-button1.addEventListener("click", playSound);
-
-button2.addEventListener("click", function() {
-    if (sound2.playing()) {
-        sound2.pause();
-    } else {
-        sound2.play();
-    }
-});
+button1.addEventListener("click", sound2.play());
 
 function playSound() {
-    if (sound2 != null) {
+    if (sound2 != null) 
+    {
         sound2.stop();
-    }
+    } 
     sound2.play();
 }
 
@@ -35,12 +29,21 @@ function togglePlayPause()
 
 };
 
+button2.addEventListener("click", togglePlayPause);
+ {
+    if (sound2.playing()) {
+        sound.pause();
+    } else {
+        sound2.play();
+    }
+};
+
 var Player = function(playlist)
 {
     this.playlist=playlist;
     this.index=0;
 
-    Track.innerHTML ='1. ' +playlist[0].title;
+    Track.innerHTML ='1. ' + playlist[0].title;
     playlist.forEach(function(song)
     {
         var div = document.createElement('div');
@@ -53,6 +56,15 @@ var Player = function(playlist)
         list.appendChild(div);
     });
 }
+
+var player = new Player
+([
+    {
+    title: 'Free',
+    file: 'free.mp3',
+    howl: null
+    }
+])
 
 Player.prototype=
 {
@@ -81,6 +93,7 @@ Player.prototype=
             })
         }
     },
+}
     pause: function() {
         var self=this;
         var sound= self.playlist[self.index].howl;
