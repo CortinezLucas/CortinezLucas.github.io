@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Website</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-  <link rel="stylesheet" href="../css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Presentation 6</title>
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
+    rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
-<body>
 <header>
-    <h1>Welcome to my Website</h1>
+    <h1>Welcome to My Website</h1>
     <!-- Navigation Bar-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
@@ -34,6 +36,7 @@
                         <a class="dropdown-item" href="tpWeek4.html">Technical Assignment 03</a>
                         <a class="dropdown-item" href="tpWeek5.html">Technical Assignment 04</a>
                         <a class="dropdown-item" href="tpWeek6.html">Technical Assignment 05</a>
+                        <a class="dropdown-item" href="tpWeek7one.html">Technical Assignment 06</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -45,6 +48,7 @@
                         <a class="dropdown-item" href="../DC-2.html">Digital Chalkboard 02</a>
                         <a class="dropdown-item" href="../digitalChalkboard3.html">Digital Chalkboard 03</a>
                         <a class="dropdown-item" href="../digitalChalkboard4.html">Digital Chalkboard 04</a>
+
                         <a class="dropdown-item" href="../digitalChalkboard5.html">Digital Chalkboard 05</a>
                         <a class="dropdown-item" href="../digitalChalkboard6.html">Digital Chalkboard 06</a>
                     </div>
@@ -53,39 +57,31 @@
         </div>
     </nav>
 </header>
-<h1>Digital Chalkboard: Map API</h1>
-<div id="map" style="height: 400px;"></div>
-
-
-
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
-<script>
-    var map = L.map('map').setView([41.793546, -87.585814], 13);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-    var marker = L.marker([41.7889, -87.6008]).addTo(map);
-    var circle = L.circle([41.7960, -87.5770], {
-        color: 'red',
-        fillColor: '#f03',
-        fillOpacity: 0.5,
-        radius: 500
-    }).addTo(map);
-    marker.bindPopup("Hello! This is my classroom!").openPopup();
-    circle.bindPopup("The Point");
-    var popup = L.popup(); //declare a popup
-    function onMapClick(e) { //create a listener function
-        popup.setLatLng(e.latlng) //get latitude and longitude
-            .setContent("You clicked the map at " + e.latlng.toString())
-            .openOn(map);
-    }
-    map.on('click', onMapClick);
-</script>
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<body>
+    <h1 class="maroon_text">Ras Shamra Tablet Inventory Using API</h1>
+    <h3 id="title">RS 15.001</h3>
+    <div class="container mt-3" id="ochreContainer" data-uuid = '6f18e3a7-a396-46d9-85cb-92674c24cfc0'>
+      <h1 id="title"></h1>
+      <table class="table table-striped order-table" id="ochreTable">
+          <thead class="thread-dark" id="ochreTableColumns">
+              <tr>
+                  <th style="text-align: left; width: 30%;">Properties</th>
+                  <th style="text-align: left; width: 30%;">Values</th>                
+              </tr>
+          </thead>
+          <tbody id="ochreTableBody">
+          </tbody>
+      </table>
+    </div>
+    <br>
+    <br>
+    <a href="tpWeek7two.html" class="btn icon-button"><i class="bi bi-arrow-right"></i> Next Ochre Item</a>
+    <br>
+    <br>
+    
+    </div>
+    <script src="../tpWeek7.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
