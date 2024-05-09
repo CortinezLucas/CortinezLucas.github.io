@@ -4,53 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Website</title>
+  <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js"></script>
-  <link rel="stylesheet" href="../css/variables.css">
+  <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
-  <header>
-    <h1>Welcome to My Website</h1>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid">
-        <ul class="navbar-nav mx-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="../index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../About.html">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../Contact.html">Contact</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTechnical" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Technical Assignments
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownTechnical">
-              <a class="dropdown-item" href="../Technical-Presentations/consolFrame.html">Technical Assignment 01</a>
-              <a class="dropdown-item" href="../Technical-Presentations/tpWeek3.html">Technical Assignment 02</a>
-              <a class="dropdown-item" href="../Technical-Presentations/tpWeek4.html">Technical Assignment 03</a>
-            </div>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownChalkboard" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Digital Chalkboard
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownChalkboard">
-              <a class="dropdown-item" href="../DigitalChalkboard-1.html">Digital Chalkboard 01</a>
-              <a class="dropdown-item" href="../DC-2.html">Digital Chalkboard 02</a>
-              <a class="dropdown-item" href="../digitalChalkboard3.html">Digital Chalkboard 03</a>
-              <a class="dropdown-item" href="../digitalChalkboard4.html">Digital Chalkboard 04</a>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
-  </header>
+    <div id="nav-placeholder"></div>
 
-  <div class="container-fluid p-6 bg-primary text-center">
-    <h1>Data Publication</h1>
   </div>
   <div class="container mt-4">
     <div class="row">
@@ -58,7 +19,7 @@
         <button id="button1" class="btn btn-danger" style="margin-bottom:40px;">Play Song</button>
       </div>
   </div>
-
+  <script src="../nav.js"></script>
   <script src="../howler.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.bundle.min.js"></script>
 </body>
