@@ -51,17 +51,17 @@ h1{
   :root {
     --bs-primary: #011224;
   }
-  
+
   .footer {
-    background-color: #767676;
+    background-color: #d2d2d2;
     width: 100%;
-    position: absolute;
-  }
-  
-  .container-content {
-    min-height: calc(100vh - 150px);
+    position: fixed;
+    bottom: 0;
   }
 
+  body{
+    padding-bottom: 200px;
+  }
 
   table {
     width: 100%;
