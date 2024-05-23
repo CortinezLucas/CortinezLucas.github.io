@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
+    rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../REAL_FINAL_EXAM/css.css" >
+    <title>Final Exam Data</title>
+</head>
+<body>
+
+    <header>
+        <!-- Navigation Bar-->
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container-fluid">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="../REAL_FINAL_EXAM/index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../REAL_FINAL_EXAM/Index.html">Index</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTechnical" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Final Exam Assignments
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownTechnical">
+                            <a class="dropdown-item" href="../REAL_FINAL_EXAM/data.html">Final Exam</a>
+                            <a class="dropdown-item" href="../REAL_FINAL_EXAM/index.html">Index</a>
+  
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+<!-- END NAV BAR -->
+<h1 class="text-center">Welcome to to the Data Publication Research Project!</h1>
+
+<div id="titleDiv" class="h3 container-fluid mt-5">Sample data</div>
+    <div class="container-fluid mt-5">
+        <h4 id="titleOutput"></h4>
+        <table class="table table-striped">
+            <thead>
+                <button type="submit" class="btn btn-primary my-3" onclick="Filter()">Search</button> <!-- Was attempting solution here similar to the Week 8 Digital Chalkboard, didn't have enough time to troubleshoot and deleted js code that wasn't working before submission -->
+                <tr>
+
+                    <!-- <th id="colName">Name</th> -->
+                    <th id="colProperty">Identification Label</th> <!-- Error Here as I am unable to figure out hwo to filter display on HTML where spatial unit n=0. -->
+                    <th id="colProperty">Belongs to the Following Parish:</th>
+                  
+                </tr>
+            </thead>
+            <tbody id="myTableBody"></tbody>
+        </table>
+    </div>
+
+<!-- <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        loadXMLDoc();
+    });
+
+    function loadXMLDoc() {
+        const url = 'xmlSample.xml';
+        fetch(url)
+            .then(response => response.text())
+            .then(xmlData => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlData, 'application/xml');
+                parseData(xmlDoc);
+            })
+            .catch(error => {
+                console.error('Error loading XML File:', error);
+            });
+
+            function parseData(xmlDoc) {
+            const objectData = xmlDoc.getElementsByTagName("spatialUnit");
+        
+            
+            for (let i = 0; i < objectData.length; i++) {
+                // Create table row
+                const newRow = document.createElement("tr");
+                newRow.id = "row" + i;
+                document.getElementById("myTableBody").appendChild(newRow);
+               
+
+                // Create table cells and populate with data
+                const newCol01 = document.createElement("td");
+                newCol01.innerHTML = objectData[i].children[0].innerHTML; // Correctly identified identification label non-filterd
+                document.getElementById("row" + i).appendChild(newCol01);
+                console.log(objectData[i].children[0]);
+                const newCol02 = document.createElement("td");
+                newCol02.innerHTML = objectData[i].children[4].children[1].children[1].innerHTML; // Correctly identififed parish non-filtered
+                document.getElementById("row" + i).appendChild(newCol02);
+            }
+        }
+    } </script> -->
+
+    <script src="../REAL_FINAL_EXAM/RfinalExam.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,2606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result>
+  <ochre belongsTo="FIORE" languages="eng;ita" publicationDateTime="2024-04-25T17:19:51" uuid="010d743f-117b-4f11-bda5-cccfc3f87edd" uuidBelongsTo="3f903f0c-6469-4349-828e-5e1ca2265f15">
+    <metadata>
+      <dataset xmlns:dc="http://purl.org/dc/elements/1.1/">OCHRE/FIORE</dataset>
+      <description xmlns:dc="http://purl.org/dc/elements/1.1/">Florence Illuminated Online Research Environment</description>
+      <publisher xmlns:dc="http://purl.org/dc/elements/1.1/">OCHRE</publisher>
+      <identifier xmlns:dc="http://purl.org/dc/elements/1.1/">https://pi.lib.uchicago.edu/1001/org/ochre/010d743f-117b-4f11-bda5-cccfc3f87edd</identifier>
+      <language xmlns:dc="http://purl.org/dc/elements/1.1/" default="true">eng</language>
+      <language xmlns:dc="http://purl.org/dc/elements/1.1/">ita</language>
+    </metadata>
+    <set publicationDateTime="2024-04-25T17:19:51" type="publishedFromSpec" uuid="010d743f-117b-4f11-bda5-cccfc3f87edd">
+      <availability>
+        <license>No license information provided</license>
+      </availability>
+      <project>
+        <identification>
+          <label>
+            <content xml:lang="eng" languages="eng">
+              <string>Florence Illuminated Online Research Environment</string>
+            </content>
+          </label>
+          <abbreviation>
+            <content xml:lang="eng" languages="eng">
+              <string>FIORE</string>
+            </content>
+          </abbreviation>
+        </identification>
+      </project>
+      <context displayPath="Projects/Florence Illuminated Online Research Environment/Demo sets">
+        <context displayPath="Projects/Florence Illuminated Online Research Environment/Demo sets">
+          <project n="-2" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">Florence Illuminated Online Research Environment</project>
+          <tree n="-1" uuid="2e98aa93-7eaf-4744-8442-efaa7e76f4dc">Demo sets</tree>
+        </context>
+      </context>
+      <identification>
+        <label>DIGS 20005 Spring 24 - Final - block 224</label>
+      </identification>
+      <items>
+        <spatialUnit n="0" uuid="a85df818-d6b6-4084-9633-bcbcbd9e0e97">
+          <identification>
+            <label>224_A_1</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579123, 43.7725492</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish (Santa Maria in Campo, parish)</value>
+              <comment>See renter declaration V295</comment>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:49:08" type="xs:IDREF" uuid="09bc462e-4887-41b1-a036-445e8e0e8daf">GD899</value>
+              <value type="xs:IDREF" uuid="1a3a2717-a505-4e25-ae7d-8082f71b050f">V259</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:49:08" type="xs:IDREF" uuid="09bc462e-4887-41b1-a036-445e8e0e8daf">GD899</value>
+              <value type="xs:IDREF" uuid="1a3a2717-a505-4e25-ae7d-8082f71b050f">V259</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="14691611-f879-4d87-b2a3-4f4060f4b065">Tommaso</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="14691611-f879-4d87-b2a3-4f4060f4b065">Tommaso</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="a25f6a7c-9e87-4671-91d8-d60ccf40b099">Antonio</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="a25f6a7c-9e87-4671-91d8-d60ccf40b099">Antonio</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="4b65e522-354b-4d1c-b0ea-568f7e1aa99a">
+          <identification>
+            <label>224_A_2</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579815, 43.7725492</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:47" type="xs:IDREF" uuid="b58a3409-8fa3-46f2-807d-8b68c20893b5">V511</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:47" type="xs:IDREF" uuid="b58a3409-8fa3-46f2-807d-8b68c20893b5">V511</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="80dd8f49-5904-47f6-a157-b6ce6242cd05">Francesco</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="80dd8f49-5904-47f6-a157-b6ce6242cd05">Francesco</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="f39dad9e-d663-479a-808d-d0ac4c11f792">
+          <identification>
+            <label>224_A_3</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2580638, 43.7725326</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:47" type="xs:IDREF" uuid="0741538f-ed51-4ebd-8a71-7b1d7fd0dac3">V512</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:47" type="xs:IDREF" uuid="0741538f-ed51-4ebd-8a71-7b1d7fd0dac3">V512</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="908965b1-9aa5-46f5-ac0f-1d1223ebf9ee">
+          <identification>
+            <label>224_A_4</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2582022, 43.7725064</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:48" type="xs:IDREF" uuid="b01ff490-e858-4d53-bb8e-9c6d48132e0a">V514</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:48" type="xs:IDREF" uuid="b01ff490-e858-4d53-bb8e-9c6d48132e0a">V514</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="2cbe40a3-b0bf-4578-9936-0603b306244d">
+          <identification>
+            <label>224_A_5</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.258479, 43.772485</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:35" type="xs:IDREF" uuid="213d01b0-dfb4-44ea-9d3a-ec258a87862a">V227</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:35" type="xs:IDREF" uuid="213d01b0-dfb4-44ea-9d3a-ec258a87862a">V227</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="cf3b572c-9d26-4d57-9ce7-168430db78dc">Simone</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="cf3b572c-9d26-4d57-9ce7-168430db78dc">Simone</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="6228a3f8-c6d9-4086-b0c5-d667259a5a35">
+          <identification>
+            <label>224_A_6</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2585779, 43.7724636</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="b784be8e-f171-42f5-a2c5-ae6ba7375067">Inn</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:34" type="xs:IDREF" uuid="d3f3f017-c70f-44b2-ad62-d78717cbe621">V159</value>
+              <value publicationDateTime="2022-12-05T18:50:38" type="xs:IDREF" uuid="8477e511-a8a1-494e-bb14-96f846314747">V325</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:34" type="xs:IDREF" uuid="d3f3f017-c70f-44b2-ad62-d78717cbe621">V159</value>
+              <value publicationDateTime="2022-12-05T18:50:38" type="xs:IDREF" uuid="8477e511-a8a1-494e-bb14-96f846314747">V325</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f6841356-fec3-41b4-91a0-2f91640d0a27">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f6841356-fec3-41b4-91a0-2f91640d0a27">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="30e22050-ea27-4d33-8aa0-4d8c5145abef">Biagio</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="30e22050-ea27-4d33-8aa0-4d8c5145abef">Biagio</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="c1eeae32-95c1-44fe-85f7-492b02844752">
+          <identification>
+            <label>224_A_7</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2587146, 43.7724329</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:34" type="xs:IDREF" uuid="a88ec1fd-31d1-4e94-8155-2b35b258d4ab">V160</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:34" type="xs:IDREF" uuid="a88ec1fd-31d1-4e94-8155-2b35b258d4ab">V160</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f6841356-fec3-41b4-91a0-2f91640d0a27">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f6841356-fec3-41b4-91a0-2f91640d0a27">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="ed020d4a-c33f-4df4-a35b-8fa2ae90ffe8">
+          <identification>
+            <label>224_A_8</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2588017, 43.7724256</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:21" type="xs:IDREF" uuid="ac193d6d-b261-42eb-93b8-1c378437606a">CH14</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:21" type="xs:IDREF" uuid="ac193d6d-b261-42eb-93b8-1c378437606a">CH14</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c8b0e7cc-cd50-4f7e-a269-3f152cb9b566">Antonio</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c8b0e7cc-cd50-4f7e-a269-3f152cb9b566">Antonio</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="8821c27c-7bb7-4e5f-b2ad-bc8957911064">
+          <identification>
+            <label>224_A_9</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.258939, 43.7723966</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+              <value type="xs:string" uuid="1b1ce3f1-3064-4f55-9b56-93fb1cd5ab75">Workshop</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:18" type="xs:IDREF" uuid="8fbc1a42-4048-40ea-9b56-5ff215cb276d">CH12</value>
+              <value publicationDateTime="2022-12-05T18:48:21" type="xs:IDREF" uuid="4db06ee4-9ff7-4b5b-a7c4-6986a4b0bcf0">CH13</value>
+              <value type="xs:IDREF" uuid="b22c165f-d3d5-452a-86ab-929715f5de53">R598</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:18" type="xs:IDREF" uuid="8fbc1a42-4048-40ea-9b56-5ff215cb276d">CH12</value>
+              <value publicationDateTime="2022-12-05T18:48:21" type="xs:IDREF" uuid="4db06ee4-9ff7-4b5b-a7c4-6986a4b0bcf0">CH13</value>
+              <value type="xs:IDREF" uuid="b22c165f-d3d5-452a-86ab-929715f5de53">R598</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c8b0e7cc-cd50-4f7e-a269-3f152cb9b566">Antonio</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c8b0e7cc-cd50-4f7e-a269-3f152cb9b566">Antonio</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="2b599f36-309e-42b4-b196-c3cbb760bc46">Affo</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="2b599f36-309e-42b4-b196-c3cbb760bc46">Affo</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="4a3540d6-799f-4b3a-ab74-55662ec5f47e">
+          <identification>
+            <label>224_A_10</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2590429, 43.7723772</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:32" type="xs:IDREF" uuid="9de6444a-04b4-4fe9-8cae-8841bb456153">CH72</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:32" type="xs:IDREF" uuid="9de6444a-04b4-4fe9-8cae-8841bb456153">CH72</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="87f0778e-e750-4816-b87f-f0b9718a42df">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="87f0778e-e750-4816-b87f-f0b9718a42df">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="71de8f05-7ffa-47be-9ce2-f44b061bd198">
+          <identification>
+            <label>224_A_11</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2592878, 43.7723178</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property isUncertain="true">
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+              <value type="xs:string" uuid="2484ce49-b075-46c6-921c-ae2c630480a2">Stable</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="234ef288-97c5-4870-af81-f5eaef8d1f69">CH73</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="234ef288-97c5-4870-af81-f5eaef8d1f69">CH73</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="87f0778e-e750-4816-b87f-f0b9718a42df">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="87f0778e-e750-4816-b87f-f0b9718a42df">Bernardo</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="30e22050-ea27-4d33-8aa0-4d8c5145abef">Biagio</value>
+              <comment>Biagio "Romanello" di Giovanni does not make a corresponding declaration for this property</comment>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="30e22050-ea27-4d33-8aa0-4d8c5145abef">Biagio</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="07a1bb1d-a6e8-473e-8767-92cb60161f4f">
+          <identification>
+            <label>224_A_12</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2597724, 43.7722098</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:30" type="xs:IDREF" uuid="145d680d-9d50-4411-99ac-c50fef91f268">CH592</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:30" type="xs:IDREF" uuid="145d680d-9d50-4411-99ac-c50fef91f268">CH592</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e64b182e-416d-4d01-9db2-ee0772cefcb0">Francesco</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e64b182e-416d-4d01-9db2-ee0772cefcb0">Francesco</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="d09f1392-be39-4a8d-8ba9-009102dc8ac4">
+          <identification>
+            <label>224_A_13</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2599505, 43.7721635</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:28" type="xs:IDREF" uuid="709b3fee-cc21-4fb0-8de8-c17b6aeb9ce3">CH469</value>
+              <value type="xs:IDREF" uuid="4c0c7308-c4ff-41df-a146-ee82e3997d01">CH821</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:28" type="xs:IDREF" uuid="709b3fee-cc21-4fb0-8de8-c17b6aeb9ce3">CH469</value>
+              <value type="xs:IDREF" uuid="4c0c7308-c4ff-41df-a146-ee82e3997d01">CH821</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="3a597e40-9019-47f7-b8a4-e1cb55b6b7a6">Carlo/Andrea</value>
+              <value type="xs:IDREF" uuid="32c4e24d-126c-4486-a4ac-1838cf407d5c">Lorenzo</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="3a597e40-9019-47f7-b8a4-e1cb55b6b7a6">Carlo/Andrea</value>
+              <value type="xs:IDREF" uuid="32c4e24d-126c-4486-a4ac-1838cf407d5c">Lorenzo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="37a6e9c1-cd07-4dd4-94a4-ca98fb86c03d">
+          <identification>
+            <label>224_A_14</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2602187, 43.7721039</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:32" type="xs:IDREF" uuid="4aef7b43-e5ea-4e32-81e1-2c4778596740">CH725</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:32" type="xs:IDREF" uuid="4aef7b43-e5ea-4e32-81e1-2c4778596740">CH725</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="6e0eb092-2ef6-4521-ac2b-fe9c6b715801">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="6e0eb092-2ef6-4521-ac2b-fe9c6b715801">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="b10c9ac2-8cf1-4f30-a2f1-11e67b5e216f">
+          <identification>
+            <label>224_A_15</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2603192, 43.77207</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="f89a9e6e-a601-43db-b003-d9a3bc7071d2">Big house</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="309ccb11-8b0b-4b06-ad59-a6d18e1dbadd">CH726</value>
+              <value type="xs:IDREF" uuid="c4cd7a11-3ead-4132-8f32-a490ac29353a">CH186</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="309ccb11-8b0b-4b06-ad59-a6d18e1dbadd">CH726</value>
+              <value type="xs:IDREF" uuid="c4cd7a11-3ead-4132-8f32-a490ac29353a">CH186</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="47ba7ba9-a414-4867-ab31-d313b930fc7f">Jacopa (I-914)</value>
+              <comment>Declared as renter in CH726; Giovanni (I-890)</comment>
+              <value type="xs:IDREF" uuid="6e0eb092-2ef6-4521-ac2b-fe9c6b715801">Jacopa (I-914)</value>
+              <comment>Declared as renter in CH726; Giovanni (I-890)</comment>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="47ba7ba9-a414-4867-ab31-d313b930fc7f">Jacopa</value>
+              <value type="xs:IDREF" uuid="6e0eb092-2ef6-4521-ac2b-fe9c6b715801">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="62d9f0b4-89d8-4300-b24e-e009bc70f1d4">
+          <identification>
+            <label>224_A_16</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2604365, 43.7720265</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:14" type="xs:IDREF" uuid="5b6d32bf-9731-4cc0-b0e5-99e95334bbc6">CH10</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:14" type="xs:IDREF" uuid="5b6d32bf-9731-4cc0-b0e5-99e95334bbc6">CH10</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="8f39eaeb-6248-40ba-bace-62a027f21d0c">Antonio</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="8f39eaeb-6248-40ba-bace-62a027f21d0c">Antonio</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="73fbc05f-bf36-48e2-ad08-689ca4086896">Matteo</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="73fbc05f-bf36-48e2-ad08-689ca4086896">Matteo</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="d5e40480-f402-411d-916a-c517713c1ecf">
+          <identification>
+            <label>224_A_17</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2606006, 43.7717386</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:28" type="xs:IDREF" uuid="ab7898db-9781-47fc-a149-a5f4b28c0cfc">CH50</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:28" type="xs:IDREF" uuid="ab7898db-9781-47fc-a149-a5f4b28c0cfc">CH50</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="0545ff40-6c0f-4490-9342-59d067cb5e2a">Piero</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="0545ff40-6c0f-4490-9342-59d067cb5e2a">Piero</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="e646d2b6-65d7-444c-85f8-13be28b88b4d">
+          <identification>
+            <label>224_B_1</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2615755, 43.7716249</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+              <value type="xs:string" uuid="1b1ce3f1-3064-4f55-9b56-93fb1cd5ab75">Workshop</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="adf346e4-1462-4359-a20b-022b97cc36f1">CH26</value>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="c236c8cb-bb29-4ddb-992a-3147aeab76af">CH27</value>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="1c033fb7-b2eb-4bfe-9121-13919f88b1dd">CH28</value>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="8fee68cd-a380-4071-b273-45bdf0de78a2">CH29</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="9721a8b4-ab8e-455c-9a6c-0acab95a3f9a">CH30</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="5d73f221-f4b9-470d-bd8b-25ce70704c30">CH31</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="fcdbefb1-3623-47a3-8b4f-5296cd349c1f">CH32</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="e460fcbd-df9c-4cda-8d82-2c533076af5a">CH33</value>
+              <value publicationDateTime="2022-12-05T18:48:26" type="xs:IDREF" uuid="1c124235-2096-4d35-b4c9-15f41d6235b0">CH34</value>
+              <value type="xs:IDREF" uuid="3f92ddc4-804e-438a-95e9-9f9c35b91968">CH1079</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="adf346e4-1462-4359-a20b-022b97cc36f1">CH26</value>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="c236c8cb-bb29-4ddb-992a-3147aeab76af">CH27</value>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="1c033fb7-b2eb-4bfe-9121-13919f88b1dd">CH28</value>
+              <value publicationDateTime="2022-12-05T18:48:24" type="xs:IDREF" uuid="8fee68cd-a380-4071-b273-45bdf0de78a2">CH29</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="9721a8b4-ab8e-455c-9a6c-0acab95a3f9a">CH30</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="5d73f221-f4b9-470d-bd8b-25ce70704c30">CH31</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="fcdbefb1-3623-47a3-8b4f-5296cd349c1f">CH32</value>
+              <value publicationDateTime="2022-12-05T18:48:25" type="xs:IDREF" uuid="e460fcbd-df9c-4cda-8d82-2c533076af5a">CH33</value>
+              <value publicationDateTime="2022-12-05T18:48:26" type="xs:IDREF" uuid="1c124235-2096-4d35-b4c9-15f41d6235b0">CH34</value>
+              <value type="xs:IDREF" uuid="3f92ddc4-804e-438a-95e9-9f9c35b91968">CH1079</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="0600c91a-2d05-4bde-b2ab-a8b4384e1d6a">Maso</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="0600c91a-2d05-4bde-b2ab-a8b4384e1d6a">Maso</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="1a98b7ca-0d80-4206-bdc7-d5137d011df1">Rutino</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="1a98b7ca-0d80-4206-bdc7-d5137d011df1">Rutino</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="cf398d60-5be7-40d3-97dc-999e83d9ff42">
+          <identification>
+            <label>224_B_2</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2613812, 43.7716515</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="2ca011fb-67b0-4188-830f-9e9229695902">CH737</value>
+              <value publicationDateTime="2022-12-05T18:48:22" type="xs:IDREF" uuid="af720d24-2220-4f1b-8d67-f3f059a5bb5f">CH165</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="2ca011fb-67b0-4188-830f-9e9229695902">CH737</value>
+              <value publicationDateTime="2022-12-05T18:48:22" type="xs:IDREF" uuid="af720d24-2220-4f1b-8d67-f3f059a5bb5f">CH165</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f1a43c67-e0df-40c6-a5c4-460b6be65069">Isabetta</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f1a43c67-e0df-40c6-a5c4-460b6be65069">Isabetta</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="33563607-1305-4877-a253-429c7041de56">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="33563607-1305-4877-a253-429c7041de56">Giovanni</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="3a62be12-8335-4e3b-a7e7-05aaa5123772">
+          <identification>
+            <label>224_B_4</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2612974, 43.7715547</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:37" type="xs:IDREF" uuid="aa18d9ae-097f-4968-979b-6a125146c926">CH938</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:37" type="xs:IDREF" uuid="aa18d9ae-097f-4968-979b-6a125146c926">CH938</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="efa6961e-4bd7-4c16-9713-a5dcea3cf04e">Nanna</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="efa6961e-4bd7-4c16-9713-a5dcea3cf04e">Nanna</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="5b7c4c2c-9686-453f-9560-1b0f70caa257">
+          <identification>
+            <label>224_B_3</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2611969, 43.7716709</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+              <value type="xs:string" uuid="d530c53c-d5e2-4bbf-b500-9f803bcd2737">Courtyard</value>
+              <value type="xs:string" uuid="2484ce49-b075-46c6-921c-ae2c630480a2">Stable</value>
+              <value type="xs:string" uuid="bbedc71d-f6a3-41ed-a050-c65fe58b7636">Loggia</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:31" type="xs:IDREF" uuid="87096b30-695c-4d96-bdf9-602147daf911">CH67</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:31" type="xs:IDREF" uuid="87096b30-695c-4d96-bdf9-602147daf911">CH67</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e10ceca2-493f-4aeb-a0f2-672d8cd78150">Luca</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e10ceca2-493f-4aeb-a0f2-672d8cd78150">Luca</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="01bdac2d-f2f5-454e-ae17-0097323ed585">
+          <identification>
+            <label>224_B_5</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2611031, 43.7716878</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:22" type="xs:IDREF" uuid="f28819c3-0788-476a-962d-783b5df78fe2">CH180</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:22" type="xs:IDREF" uuid="f28819c3-0788-476a-962d-783b5df78fe2">CH180</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="655c5afd-d1da-4023-b572-2f2d796cec14">Giovenco</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="655c5afd-d1da-4023-b572-2f2d796cec14">Giovenco</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="a687689a-a223-48af-8943-755401cad771">
+          <identification>
+            <label>224_B_6</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2609758, 43.7716975</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:27" type="xs:IDREF" uuid="ceece407-9e24-4b91-9b98-3d430f3c896c">CH356</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:27" type="xs:IDREF" uuid="ceece407-9e24-4b91-9b98-3d430f3c896c">CH356</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="1e47e550-cfef-4cda-b50b-15575855f4ad">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="1e47e550-cfef-4cda-b50b-15575855f4ad">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="0f072895-25f2-4f0f-8f66-497d92a845ad">
+          <identification>
+            <label>224_B_7</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2608653, 43.7715644</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:38" type="xs:IDREF" uuid="b7a4dacc-1deb-4002-b4c4-7e396d26d2a9">CH95</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:38" type="xs:IDREF" uuid="b7a4dacc-1deb-4002-b4c4-7e396d26d2a9">CH95</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="713f4020-68f7-4904-87bc-dc30bce147ce">Berto</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="713f4020-68f7-4904-87bc-dc30bce147ce">Berto</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="8ae0a99b-45b0-460d-b787-28b25ba59281">
+          <identification>
+            <label>224_B_8</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.260825, 43.7717168</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:17" type="xs:IDREF" uuid="59583e58-9a84-461f-addd-eede6b6364d0">CH1131</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:17" type="xs:IDREF" uuid="59583e58-9a84-461f-addd-eede6b6364d0">CH1131</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="82393fcc-c1f5-4eca-bfbb-a18c6653ce91">Simone</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="82393fcc-c1f5-4eca-bfbb-a18c6653ce91">Simone</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="15ea15aa-d3a7-49fc-8c0e-5f3235a9af48">
+          <identification>
+            <label>224_B_9</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2607547, 43.7717217</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:51:04" type="xs:IDREF" uuid="7bf7e203-492b-4357-862a-6fb3bed47834">VP22</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:51:04" type="xs:IDREF" uuid="7bf7e203-492b-4357-862a-6fb3bed47834">VP22</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="55adb7f6-8013-4481-90ac-7b3f7e9af4f6">Rinaldo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="55adb7f6-8013-4481-90ac-7b3f7e9af4f6">Rinaldo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="252d44f7-f1b2-435f-a164-6d4ac2e73f04">Verdiano</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="252d44f7-f1b2-435f-a164-6d4ac2e73f04">Verdiano</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="9af9bc87-f4af-4172-87c5-92f525571b50">
+          <identification>
+            <label>224_B_10</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.260681, 43.7717338</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="f7ba4656-b701-4bb6-8650-92c7dd6fe63d">CH74</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:33" type="xs:IDREF" uuid="f7ba4656-b701-4bb6-8650-92c7dd6fe63d">CH74</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="de4a3668-247a-4bf4-986a-9386c05b1dbe">Antonio</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="de4a3668-247a-4bf4-986a-9386c05b1dbe">Antonio</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="d989212e-42de-4e6e-bd93-bbf4bd1eb859">
+          <identification>
+            <label>224_B_11</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2605101, 43.7716467</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:26" type="xs:IDREF" uuid="5d71a7e1-0c86-4642-a832-c9671dff6f9e">CH35</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:26" type="xs:IDREF" uuid="5d71a7e1-0c86-4642-a832-c9671dff6f9e">CH35</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="01b40554-6a7a-488a-8845-58fb141e2bd3">Rinaldo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="01b40554-6a7a-488a-8845-58fb141e2bd3">Rinaldo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value publicationDateTime="2024-04-25T15:48:37" type="xs:IDREF" uuid="bce7462a-e106-4cf1-b3ea-ac505642f54c">224_B_17</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value publicationDateTime="2024-04-25T15:48:37" type="xs:IDREF" uuid="bce7462a-e106-4cf1-b3ea-ac505642f54c">224_B_17</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="e8286ce2-ed8a-4a16-b898-72b4ffb1d137">
+          <identification>
+            <label>224_B_12</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2603929, 43.7716007</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:15" type="xs:IDREF" uuid="439542cb-7365-4373-81e8-8a32b05ff8fc">CH1066</value>
+              <value publicationDateTime="2022-12-05T18:48:34" type="xs:IDREF" uuid="601a3b3a-ae3d-48fd-8c6e-305425648835">CH796</value>
+              <value publicationDateTime="2022-12-05T18:48:37" type="xs:IDREF" uuid="41ca7e29-836d-4a63-8af8-73abf706c6d3">CH937</value>
+              <value publicationDateTime="2022-12-05T18:48:29" type="xs:IDREF" uuid="24df73f5-dcc0-49c0-ac80-d363d9e43f79">CH53</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:15" type="xs:IDREF" uuid="439542cb-7365-4373-81e8-8a32b05ff8fc">CH1066</value>
+              <value publicationDateTime="2022-12-05T18:48:34" type="xs:IDREF" uuid="601a3b3a-ae3d-48fd-8c6e-305425648835">CH796</value>
+              <value publicationDateTime="2022-12-05T18:48:37" type="xs:IDREF" uuid="41ca7e29-836d-4a63-8af8-73abf706c6d3">CH937</value>
+              <value publicationDateTime="2022-12-05T18:48:29" type="xs:IDREF" uuid="24df73f5-dcc0-49c0-ac80-d363d9e43f79">CH53</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="ec2b045c-9caf-4e7e-b2c6-d94c1d6a14c7">Luca</value>
+              <value type="xs:IDREF" uuid="ae4fc12d-e9d9-43b2-a50c-3b0801c5072f">Stefano</value>
+              <value type="xs:IDREF" uuid="322eb473-ed46-4a46-8b47-f0a80b5d2c07">Piero</value>
+              <value type="xs:IDREF" uuid="00507454-1edc-42fb-b313-ece55c0ac582">Pagolo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="ec2b045c-9caf-4e7e-b2c6-d94c1d6a14c7">Luca</value>
+              <value type="xs:IDREF" uuid="ae4fc12d-e9d9-43b2-a50c-3b0801c5072f">Stefano</value>
+              <value type="xs:IDREF" uuid="322eb473-ed46-4a46-8b47-f0a80b5d2c07">Piero</value>
+              <value type="xs:IDREF" uuid="00507454-1edc-42fb-b313-ece55c0ac582">Pagolo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="b3a944a8-7216-42d7-86ca-da5bacaac252">
+          <identification>
+            <label>224_B_13</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2601953, 43.7715547</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:23" type="xs:IDREF" uuid="94bc8722-2188-4e74-9b89-1a42486f0105">CH209</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:23" type="xs:IDREF" uuid="94bc8722-2188-4e74-9b89-1a42486f0105">CH209</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e3dd8d4c-ec8a-4c07-b484-3f50944f10bc">Niccolò</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e3dd8d4c-ec8a-4c07-b484-3f50944f10bc">Niccolò</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="b0323785-21de-43a8-8774-c8fc80b7a469">
+          <identification>
+            <label>224_B_14</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Chiavi/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="e7cfa4ad-6c62-4e6e-bac2-977ba7163cea">Chiavi</spatialUnit>
+              <spatialUnit n="-1" uuid="0cc2c2f0-5db0-42cc-bb4e-09e3879b4e77">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2600289, 43.7716026</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:29" type="xs:IDREF" uuid="e925b905-72b5-4628-8d73-a16c59479244">CH572</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:29" type="xs:IDREF" uuid="e925b905-72b5-4628-8d73-a16c59479244">CH572</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c73a6e5d-6128-4db4-9d90-847c002c268c">Francesco/Bernardo/Papo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c73a6e5d-6128-4db4-9d90-847c002c268c">Francesco/Bernardo/Papo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="439cc451-3666-4a03-b5ec-fde6715d78bb">
+          <identification>
+            <label>224_B_15</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.259922, 43.7715408</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="f906ed6a-e8b6-493c-a953-c700cd255881">Small house</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:29" type="xs:IDREF" uuid="0e528e37-47fa-4dfe-b6f5-bc5329e6cb89">CH573</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:29" type="xs:IDREF" uuid="0e528e37-47fa-4dfe-b6f5-bc5329e6cb89">CH573</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c73a6e5d-6128-4db4-9d90-847c002c268c">Francesco/Bernardo/Papo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c73a6e5d-6128-4db4-9d90-847c002c268c">Francesco/Bernardo/Papo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="82dd21a9-8899-4646-a396-6046b91fe49c">
+          <identification>
+            <label>224_B_16</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2597367, 43.771546</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:28" type="xs:IDREF" uuid="b65fe342-ff27-4695-b6dd-d5a84310620f">CH45</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:28" type="xs:IDREF" uuid="b65fe342-ff27-4695-b6dd-d5a84310620f">CH45</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c1519377-a12d-46cb-bc30-18dd6c715768">Marchione</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="c1519377-a12d-46cb-bc30-18dd6c715768">Marchione</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="bce7462a-e106-4cf1-b3ea-ac505642f54c">
+          <identification>
+            <label>224_B_17</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2595229, 43.771546</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:27" type="xs:IDREF" uuid="e00c22d7-bf00-485e-9541-fcf45da1f3d0">CH36</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:27" type="xs:IDREF" uuid="e00c22d7-bf00-485e-9541-fcf45da1f3d0">CH36</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="66ec228b-55ae-4caa-b102-1d0f4f2a361b">Sandra</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="66ec228b-55ae-4caa-b102-1d0f4f2a361b">Sandra</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="01b40554-6a7a-488a-8845-58fb141e2bd3">Rinaldo (I-1032)</value>
+              <comment>See description; purchased by his wife from the heirs of Villano Villani</comment>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="01b40554-6a7a-488a-8845-58fb141e2bd3">Rinaldo</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="81fe1bfe-86cb-40d8-b446-5ccdee34401e">
+          <identification>
+            <label>224_B_18</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2593377, 43.7715511</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:30" type="xs:IDREF" uuid="473bc72f-8740-42c3-9496-a16bcb1413c2">CH640</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:30" type="xs:IDREF" uuid="473bc72f-8740-42c3-9496-a16bcb1413c2">CH640</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="2ed81f31-7028-48d3-90c4-62c904d4c6ee">Ghinozzo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="2ed81f31-7028-48d3-90c4-62c904d4c6ee">Ghinozzo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="e0598fb0-d7d3-4c75-a5bf-7b69dd6d379b">
+          <identification>
+            <label>224_B_19</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2591524, 43.7715563</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="f906ed6a-e8b6-493c-a953-c700cd255881">Small house</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:20" type="xs:IDREF" uuid="a4ef6fd4-b965-42ec-a53a-fd97839eafa5">CH1215</value>
+              <value publicationDateTime="2022-12-05T18:48:16" type="xs:IDREF" uuid="42c80fdf-c8fd-42c5-a63f-c96f1dfba5f0">CH1092</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:20" type="xs:IDREF" uuid="a4ef6fd4-b965-42ec-a53a-fd97839eafa5">CH1215</value>
+              <value publicationDateTime="2022-12-05T18:48:16" type="xs:IDREF" uuid="42c80fdf-c8fd-42c5-a63f-c96f1dfba5f0">CH1092</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e31d1406-aa1c-4178-9b15-4c78f14bb770">Andrea</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e31d1406-aa1c-4178-9b15-4c78f14bb770">Andrea</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="5e0bda33-7962-4ec6-a79b-04968caf2f31">Rinieri</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="5e0bda33-7962-4ec6-a79b-04968caf2f31">Rinieri</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="64e59df1-1007-45ab-b361-4ef0aa184070">
+          <identification>
+            <label>224_B_20</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2589222, 43.7715523</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="72f5d757-0a1c-4c7d-afe8-67afe4888f82">Cottage</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:52" type="xs:IDREF" uuid="ecec6937-3a9e-4731-a0b6-e35d6c1af487">V63</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:52" type="xs:IDREF" uuid="ecec6937-3a9e-4731-a0b6-e35d6c1af487">V63</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bd6e721d-6c1c-4de8-9e23-7a5cbe8f340d">Alamanno</value>
+              <value type="xs:IDREF" uuid="dc5aa6be-37b1-4c20-8eb5-a790c26a98f4">Geri</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bd6e721d-6c1c-4de8-9e23-7a5cbe8f340d">Alamanno</value>
+              <value type="xs:IDREF" uuid="dc5aa6be-37b1-4c20-8eb5-a790c26a98f4">Geri</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="194a559c-cfa1-4a25-907a-9953bbc64ec8">
+          <identification>
+            <label>224_B_21</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2585504, 43.7715427</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="c7edf599-c76b-480f-afff-d5eb2e8be044">San Procolo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:31" type="xs:IDREF" uuid="2f4094f1-4360-4111-9e8d-130c98201922">CH68</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:31" type="xs:IDREF" uuid="2f4094f1-4360-4111-9e8d-130c98201922">CH68</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="50ca8453-229a-4121-95fa-ba7b6ed300b3">Francesco/Migliore/Manno/Simone/Malatesta</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="50ca8453-229a-4121-95fa-ba7b6ed300b3">Francesco/Migliore/Manno/Simone/Malatesta</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="5ce80f21-1431-4b4d-a8d4-d5b41d906fd7">
+          <identification>
+            <label>224_B_22</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2583829, 43.7715427</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:52" type="xs:IDREF" uuid="2eb31e60-9a59-425c-b1cb-0b07ee1a6f79">V61</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:52" type="xs:IDREF" uuid="2eb31e60-9a59-425c-b1cb-0b07ee1a6f79">V61</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bd6e721d-6c1c-4de8-9e23-7a5cbe8f340d">Alamanno</value>
+              <value type="xs:IDREF" uuid="dc5aa6be-37b1-4c20-8eb5-a790c26a98f4">Geri</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bd6e721d-6c1c-4de8-9e23-7a5cbe8f340d">Alamanno</value>
+              <value type="xs:IDREF" uuid="dc5aa6be-37b1-4c20-8eb5-a790c26a98f4">Geri</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="fffdcf73-4f0e-42d6-bb1e-3a5cfe9df967">Giuliano</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="fffdcf73-4f0e-42d6-bb1e-3a5cfe9df967">Giuliano</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="d3783d94-14fc-4a61-8c41-8153b21e80fa">
+          <identification>
+            <label>224_B_23</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2582154, 43.7715475</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="17c01e9d-e276-4111-8a10-e7136956be0a">San Piero Maggiore, parish</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:52" type="xs:IDREF" uuid="2f5db58c-ebcd-4e31-8fb8-a91024e470c7">V62; CH19?</value>
+              <comment>Declaration by Antonio di Simone, whose family name differs, though canto di Pazzi is given as the street and Poldi Pazzi, father of Alamanno and Geri, is named as owner.</comment>
+              <value type="xs:IDREF" uuid="af5a4ec9-033e-4270-a3ac-11f88de2b22d">V62; CH19</value>
+              <comment>Declaration by Antonio di Simone, whose family name differs, though canto di Pazzi is given as the street and Poldi Pazzi, father of Alamanno and Geri, is named as owner.</comment>
+            </property>
+            <property isUncertain="true">
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:52" type="xs:IDREF" uuid="2f5db58c-ebcd-4e31-8fb8-a91024e470c7">V62</value>
+              <value type="xs:IDREF" uuid="af5a4ec9-033e-4270-a3ac-11f88de2b22d">CH19</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bd6e721d-6c1c-4de8-9e23-7a5cbe8f340d">Alamanno</value>
+              <value type="xs:IDREF" uuid="dc5aa6be-37b1-4c20-8eb5-a790c26a98f4">Geri</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bd6e721d-6c1c-4de8-9e23-7a5cbe8f340d">Alamanno</value>
+              <value type="xs:IDREF" uuid="dc5aa6be-37b1-4c20-8eb5-a790c26a98f4">Geri</value>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="90f70dc2-2940-4960-80e9-6c5c20418233">Antonio</value>
+              <comment>Declaration by Antonio di Simone, whose family name differs, though canto di Pazzi is given as the street and Poldi Pazzi, father of Alamanno and Geri, is named as owner.</comment>
+            </property>
+            <property isUncertain="true">
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="90f70dc2-2940-4960-80e9-6c5c20418233">Antonio</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="92f1c333-7fa7-47b2-9d34-eee9c7b0661f">
+          <identification>
+            <label>224_B_24</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2580111, 43.771538</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+              <value type="xs:string" uuid="1b1ce3f1-3064-4f55-9b56-93fb1cd5ab75">Workshop</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:19" type="xs:IDREF" uuid="e036f385-81a8-482e-85a7-dc8de6b49a2e">CH1212</value>
+              <value publicationDateTime="2022-12-05T18:48:19" type="xs:IDREF" uuid="8f1ab07d-3294-4fb7-a420-d22e84e54411">CH1213</value>
+              <value publicationDateTime="2022-12-05T18:48:31" type="xs:IDREF" uuid="756fef07-9c0c-4116-a7e5-47241aadc93c">CH693</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:19" type="xs:IDREF" uuid="e036f385-81a8-482e-85a7-dc8de6b49a2e">CH1212</value>
+              <value publicationDateTime="2022-12-05T18:48:19" type="xs:IDREF" uuid="8f1ab07d-3294-4fb7-a420-d22e84e54411">CH1213</value>
+              <value publicationDateTime="2022-12-05T18:48:31" type="xs:IDREF" uuid="756fef07-9c0c-4116-a7e5-47241aadc93c">CH693</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e31d1406-aa1c-4178-9b15-4c78f14bb770">Andrea</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e31d1406-aa1c-4178-9b15-4c78f14bb770">Andrea</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="75837036-8455-429b-9174-c647801a2367">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="75837036-8455-429b-9174-c647801a2367">Giovanni</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="c5ac2ad6-a5e1-449e-9f3a-7bebe8b114c3">
+          <identification>
+            <label>224_C_1</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2580111, 43.7716474</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:19" type="xs:IDREF" uuid="d268491b-4795-48a5-a50c-3f5023db9e2f">CH1214</value>
+              <value type="xs:IDREF" uuid="11aed61a-62d1-4e55-9967-e003c52ce414">V447</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:48:19" type="xs:IDREF" uuid="d268491b-4795-48a5-a50c-3f5023db9e2f">CH1214</value>
+              <value type="xs:IDREF" uuid="11aed61a-62d1-4e55-9967-e003c52ce414">V447</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e31d1406-aa1c-4178-9b15-4c78f14bb770">Andrea</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="e31d1406-aa1c-4178-9b15-4c78f14bb770">Andrea</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="0fa631c6-08e6-4cdc-b584-deeef96ad5bd">Guarente</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="0fa631c6-08e6-4cdc-b584-deeef96ad5bd">Guarente</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="17d640bd-8e76-471c-9491-55af8aacb2dd">
+          <identification>
+            <label>224_C_2</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579848, 43.7717283</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:56" type="xs:IDREF" uuid="ce0cee25-5982-436e-a1fc-9c9a0db107a9">V754</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:56" type="xs:IDREF" uuid="ce0cee25-5982-436e-a1fc-9c9a0db107a9">V754</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f3ebfd9d-5e28-49b3-968b-cf7a6ff824a0">Matteo</value>
+              <value type="xs:IDREF" uuid="d8049afd-a1d4-4d47-83c8-a39e034f0cf9">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="f3ebfd9d-5e28-49b3-968b-cf7a6ff824a0">Matteo</value>
+              <value type="xs:IDREF" uuid="d8049afd-a1d4-4d47-83c8-a39e034f0cf9">Giovanni</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="cae0296e-e33a-45c2-ab1d-d64a4da0705a">
+          <identification>
+            <label>224_C_3</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579782, 43.7718235</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:51:00" type="xs:IDREF" uuid="dae6636b-7c01-4cf9-abf4-561024f27c7d">V839</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:51:00" type="xs:IDREF" uuid="dae6636b-7c01-4cf9-abf4-561024f27c7d">V839</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="40fe571f-0b0f-4572-8460-1f8d63437510">Niccolò</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="40fe571f-0b0f-4572-8460-1f8d63437510">Niccolò</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="63bad1e5-a650-432f-a252-6483fbb6ed12">
+          <identification>
+            <label>224_C_4</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579518, 43.7719377</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:59" type="xs:IDREF" uuid="2f8b5941-679c-415a-a529-784b37f03267">V817</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:59" type="xs:IDREF" uuid="2f8b5941-679c-415a-a529-784b37f03267">V817</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bad669de-023f-47d1-86af-f07dc48d03e1">Francesco</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="bad669de-023f-47d1-86af-f07dc48d03e1">Francesco</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="4989f317-3211-4d37-8b8f-709f4876cafc">Niccolò</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+              <value type="xs:IDREF" uuid="4989f317-3211-4d37-8b8f-709f4876cafc">Niccolò</value>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="010b3321-2235-49c3-8ebd-65ff61f014ba">
+          <identification>
+            <label>224_C_5</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579441, 43.7720095</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:29" type="xs:IDREF" uuid="58be7563-88cd-43af-8f7c-939af4e39644">V105</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:29" type="xs:IDREF" uuid="58be7563-88cd-43af-8f7c-939af4e39644">V105</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="fb19a263-76ea-48e0-afea-7ef8819a30d9">Bartolomeo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="fb19a263-76ea-48e0-afea-7ef8819a30d9">Bartolomeo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="54e8f2a7-835c-4dc5-a93e-6ef2a8926557">
+          <identification>
+            <label>224_C_6</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579386, 43.7720852</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:34" type="xs:IDREF" uuid="1eafb8d3-e682-4b24-8c1c-dfab8287e248">V200</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:34" type="xs:IDREF" uuid="1eafb8d3-e682-4b24-8c1c-dfab8287e248">V200</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="655e056a-da21-41a9-93ad-ae24b9364f1c">Michele</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="655e056a-da21-41a9-93ad-ae24b9364f1c">Michele</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="f2a1ad1e-6f07-4163-a982-75037158daed">
+          <identification>
+            <label>224_C_7</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2579024, 43.7722899</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:33" type="xs:IDREF" uuid="a8bc49e6-a7ba-4076-9c97-6f709d552d2b">V151</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:33" type="xs:IDREF" uuid="a8bc49e6-a7ba-4076-9c97-6f709d552d2b">V151</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="00cce1d8-3e65-4da2-9181-d3f24254107a">Francesco</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="00cce1d8-3e65-4da2-9181-d3f24254107a">Francesco</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="8626280a-cf63-48f8-90bf-0ffd0f41ceaf">
+          <identification>
+            <label>224_C_8</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.257876, 43.7723993</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:56" type="xs:IDREF" uuid="712679cd-fb11-4ce2-a399-991554e5d412">V760</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:56" type="xs:IDREF" uuid="712679cd-fb11-4ce2-a399-991554e5d412">V760</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="345f8f36-7f27-4745-b74d-4a18d0ac8c75">Sandro</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="345f8f36-7f27-4745-b74d-4a18d0ac8c75">Sandro</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="ba01bdb7-cf23-4322-80a4-5cae302b36fd">
+          <identification>
+            <label>224_C_9</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2578727, 43.7724588</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="*"/>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:59" type="xs:IDREF" uuid="73c9dd79-3839-48c5-8ac8-a0fe171d0ab6">V81</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:59" type="xs:IDREF" uuid="73c9dd79-3839-48c5-8ac8-a0fe171d0ab6">V81</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="73100f85-475c-47a3-bf44-8024e6693ea6">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="73100f85-475c-47a3-bf44-8024e6693ea6">Bernardo</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+        <spatialUnit n="0" uuid="d16f9f14-f630-46bd-b002-83d171ba871d">
+          <identification>
+            <label>224_C_10</label>
+          </identification>
+          <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+            <context displayPath="Projects/FIORE/Florence 1427/San Giovanni/Vaio/Block 224">
+              <project n="-5" uuid="3f903f0c-6469-4349-828e-5e1ca2265f15">FIORE</project>
+              <tree n="-4" uuid="7a9a812f-68cf-4f49-ac51-104a6d50c5c8">Florence 1427</tree>
+              <spatialUnit n="-3" uuid="bfba1cc7-5cf9-4693-a002-e94b4dc2f959">San Giovanni</spatialUnit>
+              <spatialUnit n="-2" uuid="4bd34627-82a4-4a4e-9de0-759a153d1670">Vaio</spatialUnit>
+              <spatialUnit n="-1" publicationDateTime="2022-12-05T13:04:42" uuid="8f8c2510-fedb-4c57-ade3-a2ba87436a73">Block 224</spatialUnit>
+            </context>
+          </context>
+          <coordinate>11.2578793, 43.772504</coordinate>
+          <observation observationNo="Obs. 1"/>
+          <properties>
+            <property>
+              <label uuid="8ec8bd67-80a8-4b40-a1bc-23844cad072a">Property type</label>
+              <value type="xs:string" uuid="5282d439-6c77-41c8-bcb7-809a1a5cdee5">House</value>
+            </property>
+            <property>
+              <label uuid="4f275911-93ef-44af-b678-86b6e04c5242">Belongs to parish ...</label>
+              <value type="xs:IDREF" uuid="66e0ce36-afdc-4176-bba7-8f722bf693c7">Santa Maria del Campo, parish</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:47" type="xs:IDREF" uuid="c9d0357a-94ea-48f8-b1ce-d9d079c1f230">V513</value>
+            </property>
+            <property>
+              <label uuid="069282b4-c90e-41fa-8804-26b005a84b04">Property is described by ...</label>
+              <value publicationDateTime="2022-12-05T18:50:47" type="xs:IDREF" uuid="c9d0357a-94ea-48f8-b1ce-d9d079c1f230">V513</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="0afc8ffc-ddea-41b3-bbff-30cbf6034d29">Has owner ...</label>
+              <value type="xs:IDREF" uuid="43ac8797-849b-4497-bedc-7a774a8ad198">Lisa</value>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+            <property>
+              <label uuid="cef42a7c-d4ab-4a45-a37c-f65d8e8723aa">Has tenant ...</label>
+            </property>
+          </properties>
+        </spatialUnit>
+      </items>
+    </set>
+  </ochre>
+</result>

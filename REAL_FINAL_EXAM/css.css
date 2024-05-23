@@ -1,0 +1,27 @@
+h1{
+    color:rgb(8, 7, 7);
+}
+
+  /* Style for the columns */
+  .col {
+    border: 1px solid #681e0555;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    color:rgb(27, 27, 23)
+    
+  }
+
+  .align-items-start .col {
+    background-color: #472d2d5c; /* Light red background */
+  }
+  
+  /* Add some spacing between rows */
+  .row {
+    margin-bottom: 20px;
+  }
+  .navbar {
+    background-color: #800303;
+  }
+
+ 
